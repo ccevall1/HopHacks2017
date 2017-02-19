@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HopHacksDemo.Plugins", "HopHacksDemo.Plugins.csproj", "{55C28603-80FC-6963-28EA-69EEB3CD64CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HopHacksDemo", "HopHacksDemo.csproj", "{12BA80F6-6ADB-1991-C70D-FB77AA026171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HopHacksDemo.Editor.Plugins", "HopHacksDemo.Editor.Plugins.csproj", "{D5916C11-01C7-B93D-3135-E5A20C7EAC4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C28603-80FC-6963-28EA-69EEB3CD64CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C28603-80FC-6963-28EA-69EEB3CD64CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C28603-80FC-6963-28EA-69EEB3CD64CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C28603-80FC-6963-28EA-69EEB3CD64CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12BA80F6-6ADB-1991-C70D-FB77AA026171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BA80F6-6ADB-1991-C70D-FB77AA026171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BA80F6-6ADB-1991-C70D-FB77AA026171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BA80F6-6ADB-1991-C70D-FB77AA026171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5916C11-01C7-B93D-3135-E5A20C7EAC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5916C11-01C7-B93D-3135-E5A20C7EAC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5916C11-01C7-B93D-3135-E5A20C7EAC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5916C11-01C7-B93D-3135-E5A20C7EAC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
